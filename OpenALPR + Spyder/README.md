@@ -1,8 +1,9 @@
-# OpenCv + OpenALPR
+# OpenCv + unconstrained-alpr
 
-Base image is ubuntu 18.04 with cuda, to be used with nvidia-docker.
+Base image is ubuntu 18.04.
 
 Contains:
-	- Miniconda (with Spyder)
+	- Miniconda (with Tensorflow + Spyder)
 	- Tesseract OCR
 	- OpenCv
+	- alpr-unconstrained
